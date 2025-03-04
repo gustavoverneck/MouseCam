@@ -1,2 +1,2 @@
 # MouseCam
-A Python app to control mouse using webcam via OpenCV and mediapipe.
+A Python app to control mouse using webcam via OpenCV, mediapipe and pyautogui.
